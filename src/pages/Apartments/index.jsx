@@ -30,7 +30,7 @@ const ApartmentsProfile = () => {
               <Carousel.Item>
                 <img
                   className="d-block w-100"
-                  src="https://lh3.googleusercontent.com/proxy/BRYSgLFjzj9aXOpFWin9d7YdjRMIwJuOYDJgJloM2UZtEmL7h7HW-zVUFnwj6Jh00iZYO-Cj2R1SMAEGQoJaOuoQAQ27XXnSonQjWe6fcq0HnXjn3A930eInw7wbrlyaryflh3wyfA"
+                  src="https://www.nortoncounty.net/wp-content/uploads/2021/05/im-234627.jpg"
                   alt="First slide"
                 />
               </Carousel.Item>
@@ -51,7 +51,13 @@ const ApartmentsProfile = () => {
             </Carousel>
           </div>
           <div className="col-3 contact-box border">
-            One of three columns
+            <div className="d-flex">
+              <div className="icoimg">
+              </div>
+              <div>
+                <p>Domus Suus</p>
+              </div>
+            </div>
           </div>
         </div>
       </div>
