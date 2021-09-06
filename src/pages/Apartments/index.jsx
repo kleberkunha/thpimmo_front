@@ -55,7 +55,7 @@ const ApartmentsProfile = () => {
               <div className="icoimg">
               </div>
               <div>
-                <p>Domus Suus</p>
+                <p></p>
               </div>
             </div>
           </div>
